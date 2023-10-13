@@ -1,0 +1,2 @@
+# Learning_Exchange_Group_for_Basic
+軟體開發工具入門讀書會
